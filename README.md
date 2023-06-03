@@ -1,7 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BrajhanLop/count.svg" />
-</p>
 <h1 align="center">Hi 👋, I'm Santiago Ruiz</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
