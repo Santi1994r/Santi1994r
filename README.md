@@ -35,13 +35,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BrajhanLop&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrajhanLop&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrajhanLop&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BrajhanLop&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
 <img src="https://www.boredpanda.es/blog/wp-content/uploads/2021/12/02-3-61ae1f5b5ed00__700-61af736ed3733__700.jpg" width="511px"/>
