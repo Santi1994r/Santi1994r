@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Santiago Ruiz</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h1 align="center">Hola 👋, soy Santiago Ruiz</h1>
+<h3 align="center">Un amante de la Tecnología en Argentina</h3>
 
-# 💫 About Me:
-🔭 I’m currently working as an educator<br>🤝 I’m looking to collaborate on ReactComunity<br>🌱 I’m currently learning NodeJS - Nestjs<br>
+# 💫 Sobre mí:
 
 
-## 🌐 Social Networks:
+
+## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ruiz-developer/)
 
 # 💻 Skills: 
@@ -37,5 +37,5 @@
 
 
 
-### 😂 Random Dev Meme
+### 😂 Meme para devs
 <img src="https://www.boredpanda.es/blog/wp-content/uploads/2021/12/02-3-61ae1f5b5ed00__700-61af736ed3733__700.jpg" width="511px"/>
